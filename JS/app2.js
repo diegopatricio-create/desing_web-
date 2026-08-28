@@ -1,0 +1,9 @@
+let n1 = prompt("Digite um número: ");
+n1 = Number(n1);
+let = Number(n2);
+alert(`${n1} + ${n2} = ${n1 + n2}`);
+alert(`${n1} - ${n2} = ${n1 - n2}`);
+alert(`${n1} / ${n2} = ${n1 / n2}`);
+alert(`${n1} % ${n2} = ${n1 % n2}`);
+alert(`${n1} * ${n2} = ${n1 * n2}`);
+alert(`${n1} ** ${n2} = ${n1 ** n2}`);
