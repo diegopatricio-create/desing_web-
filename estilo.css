@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1, h3{
+    margin: 0px;
+    padding: 10px;
+}
+.solido{
+    color: white;
+    background-color: black;
+}
+
+.destaque{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
